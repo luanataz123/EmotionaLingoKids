@@ -1,0 +1,6 @@
+{
+  "name": "EmotionaLingo Kids",
+  "description": "Aplicativo e jogo de inteligência emocional para crianças com capítulos temáticos, quizzes interativos, histórias ilustradas e ferramentas práticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
